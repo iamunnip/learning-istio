@@ -1,2 +1,7 @@
-# learning-istio
-Learning Istio
+### Learning Istio
+
+Install Istio
+
+```
+istioctl install --profile=demo
+```
